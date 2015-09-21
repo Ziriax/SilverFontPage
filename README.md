@@ -7,9 +7,9 @@ NOTE: You should use Internet Explorer for testing this, since other browsers st
 
 Either build the project using Visual Studio 2013+, or use the published version on my website.
 
-Set the `SilverFontPage.web` as startup project, and run using Internet Explorer (this should show a crash dialog box)
+Set the `SilverFontPage.web` as startup project, and run using Internet Explorer.
 
-This should display an URL like:
+This should open IE with an URL like:
 
 `http://localhost:4924/index.html?family=Oswald&source=OswaldLightOK.ttf`
 
